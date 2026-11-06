@@ -118,31 +118,10 @@ except Exception as error:
 
 ## OUTPUT:
 
-**Sample Input:**
+<img width="1242" height="371" alt="Screenshot 2026-11-06 142929" src="https://github.com/user-attachments/assets/80022bf1-f2fd-49b6-b5ba-9c6f3c3aad10" />
+<img width="1343" height="617" alt="Screenshot 2026-11-06 142943" src="https://github.com/user-attachments/assets/a7d5ecb5-3f4f-4dfc-981f-fe27dbfc6d1c" />
 
-```text
-Enter Topic: Machine Learning
-Enter Target Audience: Engineering Student
-```
 
-**Sample Output:**
-
-```text
-Generated Response:
-
-Machine Learning (ML) is a sub-field of
-Artificial Intelligence that enables computers
-to learn patterns from data and make predictions.
-
-1. What is Machine Learning?
-2. Core Concepts and Terminology
-3. Main Categories of Machine Learning
-4. Typical Machine Learning Workflow
-5. Practical Engineering Applications
-6. Key Takeaways
-```
-
-The system successfully generated a structured explanation based on the provided topic and target audience.
 
 **Real-World Application Testing:**
 
